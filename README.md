@@ -1,0 +1,2 @@
+# Ompuripro
+"Ompuripro" provides the facility to create accounts for its desktop application users.There are two main modules one is a supper seller that's create a id for sellers and then seller create id for there customers.Customers put their id on desktop application and book tickets of trains.Supper seller can delete the seller.seller can deactivate the id of customers because desktop application and web are interconnected each others.
